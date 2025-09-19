@@ -1,0 +1,112 @@
+﻿  TopGear.cpp
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(10,12): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(18,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(18,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(19,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(19,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(20,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(20,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(21,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(21,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(65,45): warning C4244: 'argumento': conversão de 'float' para 'T', possível perda de dados
+          with
+          [
+              T=int
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(105,20): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(108,37): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(112,55): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(113,55): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(114,41): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(116,45): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(121,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(141,64): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(142,64): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(145,63): warning C4244: '*=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(154,18): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(186,13): error C2059: erro de sintaxe: 'if'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(186,1): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(187,33): warning C4244: '=': conversão de 'const _Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(189,1): error C2181: else inválido sem if correspondente
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(190,33): warning C4244: '=': conversão de 'const _Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(196,17): error C2065: 'speed': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(197,17): error C2065: 'speed': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(198,13): error C2181: else inválido sem if correspondente
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(198,22): error C2065: 'speed': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(199,17): error C2065: 'speed': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(204,16): error C2065: 'speed': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(207,22): error C2065: 'startPos': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(207,36): error C2065: 'startPos': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(210,41): error C2065: 'x': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(210,44): error C2065: 'camH': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(210,50): error C2065: 'startPos': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(210,14): error C2660: 'Line::project': função não recebe 2 argumentos
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(39,10): message : consulte a declaração de 'Line::project'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(210,14): message : ao tentar corresponder a lista de argumentos '()'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(211,13): error C2065: 'x': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(211,18): error C2065: 'dx': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(212,13): error C2065: 'dx': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(214,22): error C2065: 'maxy': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(215,24): error C2065: 'maxy': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(216,13): error C2065: 'maxy': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(224,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(224,38): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(225,70): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(225,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(225,57): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(225,49): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(225,41): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(225,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(226,59): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(226,54): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(226,49): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(226,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(226,39): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(226,34): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(230,22): error C2065: 'startPos': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(230,42): error C2065: 'startPos': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(234,18): error C2065: 'lapCounterText': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(235,18): error C2065: 'velocityText': identificador não declarado
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(239,5): error C2059: erro de sintaxe: 'return'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(240,1): error C2059: erro de sintaxe: '}'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(240,1): error C2143: erro de sintaxe: ';' ausente antes de '}'

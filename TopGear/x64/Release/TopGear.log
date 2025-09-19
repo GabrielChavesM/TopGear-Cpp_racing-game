@@ -1,0 +1,80 @@
+﻿  TopGear.cpp
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(10,12): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(18,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(18,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(19,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(19,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(20,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(20,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(21,41): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(21,35): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(65,45): warning C4244: 'argumento': conversão de 'float' para 'T', possível perda de dados
+          with
+          [
+              T=int
+          ]
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(106,20): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(109,37): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(113,55): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(114,55): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(115,41): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(117,45): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(122,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(136,10): error C2086: 'sf::Font font': redefinição
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(128,10): message : consulte a declaração de 'font'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(187,64): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(188,64): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(193,27): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(197,22): warning C4244: '*=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(218,21): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(220,21): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(225,18): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(269,39): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(273,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(275,21): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(283,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(283,38): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(284,70): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(284,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(284,57): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(284,49): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(284,41): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(284,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(285,59): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(285,54): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(285,49): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(285,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(285,39): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Gabriel\Desktop\TopGear\TopGear\TopGear.cpp(285,34): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
