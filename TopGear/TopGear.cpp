@@ -141,7 +141,7 @@ void showIntroScreen(RenderWindow& app, Font& font) {
 
 int main()
 {
-    RenderWindow app(VideoMode(width, height), "Outrun Racing!");
+    RenderWindow app(VideoMode(width, height), "TopGear Racing!");
     app.setFramerateLimit(60);
 
     Texture t[50];
