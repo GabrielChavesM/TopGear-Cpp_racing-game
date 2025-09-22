@@ -45,3 +45,4 @@ Feel free to contribute by forking the repository and submitting pull requests!
 ## Screenshots
 ![Gameplay Screenshot 1](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print1.png)
 ![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print2.PNG)
+![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print3.png)
