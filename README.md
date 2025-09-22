@@ -1,48 +1,54 @@
-# TopGear-Cpp_racing-game
+# TopGear - C++ Racing Game
 
-This repository contains a racing game built in C++, a fan-made tribute to the classic Top Gear series. The game is designed to be a simple, yet engaging, recreation of the retro racing experience.
+This repository contains a fan-made racing game built in C++, inspired by the classic Top Gear series. The game recreates the retro arcade racing experience with simple mechanics, lap tracking, fuel management, and AI opponents.
 
 ## Features
 
-* **Retro-Inspired Gameplay:** Experience the thrill of old-school arcade racing with a top-down perspective and simple controls.
-
-* **Classic Car Models:** Race with models inspired by the iconic cars from the original Top Gear games.
-
-* **Multiple Tracks:** Challenge yourself on a variety of tracks with different layouts and difficulties.
-
-* **Physics-Based Racing:** The game incorporates basic physics to simulate realistic car movement, including acceleration, braking, and turning.
-
-* **Score System:** Compete for the best time on each track with an integrated scoring system.
-
-* **Easy to Play:** Simple controls make the game accessible to players of all skill levels.
-
-* **Cross-Platform:** The C++ code is designed to be compiled and run on different platforms (Windows, Linux, macOS).
+* **Arcade-Style Racing:** A fast-paced retro racing experience inspired by classic arcade games.  
+* **Lap System:** Complete 8 laps to finish the race, with lap counting and position tracking.  
+* **AI Opponents:** Compete against computer-controlled cars with dynamic speeds.  
+* **Fuel Management:** Keep an eye on your gas level, and refill by passing over fuel icons on the track.  
+* **Gear Shifting:** Manual gear system from 1st to 5th gear, affecting acceleration and max speed.  
+* **Off-Road Penalty:** Driving on the grass slows your car down significantly.  
+* **Result Screen:** Displays your finishing position after completing the race.  
+* **Retro Graphics:** Pixel-inspired visuals and nostalgic gameplay style.  
 
 ## How to Play
 
-1. **Clone the repository:** `git clone https://github.com/GabrielChavesM/TopGear-Cpp_racing-game.git`
+1. **Download the Release:**  
+   Go to the [Releases](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/releases) page and download the latest version of the game.  
 
-2. **Navigate to the directory:** `cd TopGear-Cpp_racing-game`
+2. **Run the Game:**  
+   Extract the files and run the provided executable. No compilation required if you use the release build.  
 
-3. **Compile the code:** (Instructions will vary depending on the compiler and operating system. A `Makefile` may be included for convenience.)
-
-4. **Run the executable:** `./topgear-game`
+3. **Compile from Source (Optional):**  
+   If you prefer building manually:  
+   ```bash
+   git clone https://github.com/GabrielChavesM/TopGear-Cpp_racing-game.git
+   cd TopGear-Cpp_racing-game
+   # Compile with your C++ compiler and SFML
 
 ## Controls
 
-* **Accelerate:** Up Arrow
+* **W** – Accelerate
 
-* **Brake:** Down Arrow
+* **S** – Brake
 
-* **Turn Left:** Left Arrow
+* **A** – Turn Left
 
-* **Turn Right:** Right Arrow
+* **D** – Turn Right
 
-* **Pause/Resume:** P
+* **Arrow Up** – Shift Up
 
-Feel free to contribute by forking the repository and submitting pull requests!
+* **Arrow Down** – Shift Down
+
+## Contributing
+
+* Feel free to fork the repository, open issues, or submit pull requests with improvements.
 
 ## Screenshots
 ![Gameplay Screenshot 1](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print1.png)
 ![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print2.PNG)
-![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print3.png)
+![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/images/print3.png)
+
+### Download the game now from the Releases page and start racing!
