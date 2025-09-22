@@ -47,8 +47,8 @@ This repository contains a fan-made racing game built in C++, inspired by the cl
 * Feel free to fork the repository, open issues, or submit pull requests with improvements.
 
 ## Screenshots
-![Gameplay Screenshot 1](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print1.png)
-![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/x64/images/print2.PNG)
+![Gameplay Screenshot 1](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/images/print1.png)
+![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/images/print2.PNG)
 ![Gameplay Screenshot 2](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game/blob/main/TopGear/images/print3.png)
 
 ### Download the game now from the Releases page and start racing!
